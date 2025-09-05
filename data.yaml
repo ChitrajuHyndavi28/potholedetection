@@ -1,0 +1,6 @@
+train: data/train
+val: data/val
+
+nc: 2
+names: ["normal", "pothole"]
+
